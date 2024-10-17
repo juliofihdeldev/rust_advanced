@@ -37,5 +37,5 @@ mod tests {
         };
         assert!(!order.is_available());
     }
-}:w
+}
 
